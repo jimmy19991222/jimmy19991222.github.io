@@ -378,13 +378,56 @@ number is n+m-1</p>
         </svg>
     </a>
 </div>
-  </footer><script src="https://utteranc.es/client.js"
-    repo="jimmy19991222/jimmy19991222.github.io"
-    issue-term="pathname"
-    label="Comment"
-    theme="github-light"
-    crossorigin="anonymous"
-    async>
+  </footer><div class="comments">
+    <script>
+        
+        var getTheme = document.getElementsByTagName("body")[0].getAttribute('class');
+        getTheme = getTheme == 'dark' ? 'dark':'light' ;
+
+        let theme = getTheme === 'light' ? 'github-light' : 'github-dark';
+        
+        let s = document.createElement('script');
+        s.src = 'https://utteranc.es/client.js';
+        s.setAttribute('repo', 'jimmy19991222/jimmy19991222.github.io');
+        s.setAttribute('issue-term', 'pathname');
+        s.setAttribute('theme', theme);
+        s.setAttribute('crossorigin', 'anonymous');
+        s.setAttribute('async', '');
+        document.querySelector('div.comments').innerHTML = '';
+        document.querySelector('div.comments').appendChild(s);
+    </script>
+</div>
+
+
+
+
+
+<script>
+    
+</script>
+
+<script>
+    const renew_comments = () => {
+        console.log("renew");
+        var getTheme = document.getElementsByTagName("body")[0].getAttribute('class');
+        getTheme = getTheme == 'dark' ? 'light':'dark';
+
+        let theme = getTheme === 'light' ? 'github-light' : 'github-dark';
+        
+        let s = document.createElement('script');
+        s.src = 'https://utteranc.es/client.js';
+        s.setAttribute('repo', 'jimmy19991222/jimmy19991222.github.io');
+        s.setAttribute('issue-term', 'pathname');
+        s.setAttribute('theme', theme);
+        s.setAttribute('crossorigin', 'anonymous');
+        s.setAttribute('async', '');
+        document.querySelector('div.comments').innerHTML = '';
+        document.querySelector('div.comments').appendChild(s);
+    }
+
+    let button = document.getElementById("theme-toggle").addEventListener('click', () => {
+        renew_comments();
+    });
 </script>
 </article>
     </main>

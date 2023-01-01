@@ -16,16 +16,16 @@
       <description>An overview of Object Detection</description>
     </item>
     
+    
     <item>
-      <title></title>
+      <title>FAQ</title>
       <link>https://jimmy19991222.github.io/faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jimmy19991222.github.io/faq/</guid>
-      <description>1 Q: Who are you?
-A: Hi, this is Jieming. I am currently a NUS DSML master, and a research engineer intern at A*STAR as well. My research interest focused on Adversarial Robustness and Multimodal Learning. </description>
+      <description>$\text{Q}_1$: Who are you?
+$A$: Hi, this is Jieming. I am currently a NUS DSML master, and a research engineer intern at A*STAR as well. My research interest focused on Adversarial Robustness and Multimodal Learning. </description>
     </item>
-    
     
     
   </channel>
