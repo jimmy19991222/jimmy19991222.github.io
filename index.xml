@@ -6,7 +6,16 @@
     <description>Recent content on Jieming&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jimmy19991222.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 21 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jimmy19991222.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PRML | Probability Distributions</title>
+      <link>https://jimmy19991222.github.io/posts/prml/probability_distributions/</link>
+      <pubDate>Sun, 21 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jimmy19991222.github.io/posts/prml/probability_distributions/</guid>
+      <description>An overview of Object Detection</description>
+    </item>
+    
     <item>
       <title>Object detection | Overview</title>
       <link>https://jimmy19991222.github.io/posts/object_detection/object-detection/</link>
@@ -14,28 +23,6 @@
       
       <guid>https://jimmy19991222.github.io/posts/object_detection/object-detection/</guid>
       <description>An overview of Object Detection</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jimmy19991222.github.io/posts/prml_chapter2/probability_distributions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jimmy19991222.github.io/posts/prml_chapter2/probability_distributions/</guid>
-      <description>Chapter 2 Probability Distributions Chapter Structure Exponential family distribution：
-Exponential family distribution has a fixed formed conjugate prior.
-Bernoulli distribution
-Conjugate Prior: Beta distribution
-One binary experiment: toss a coin
-Binomial distribution
-Conjugate Prior: Beta distribution
-N binary experiments: toss a coin many times
-Multinomial distribution
-Conjugate Prior: Dirichlet distribution
-Multiple value experiments: like throw the dice
-Gaussian Distribution
-Conjugate Prior of Mean: Gaussain distribution
-Conjugate Prior of Variance: Inverse Gamma distribution</description>
     </item>
     
     
