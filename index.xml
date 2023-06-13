@@ -9,38 +9,38 @@
     <lastBuildDate>Sun, 21 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jimmy19991222.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PRML | Probability Distributions</title>
-      <link>https://jimmy19991222.github.io/posts/prml/probability_distributions/</link>
+      <link>https://jimmy19991222.github.io/posts/prml/probability_distributions.html</link>
       <pubDate>Sun, 21 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jimmy19991222.github.io/posts/prml/probability_distributions/</guid>
+      <guid>https://jimmy19991222.github.io/posts/prml/probability_distributions.html</guid>
       <description>An overview of Object Detection</description>
     </item>
     
     <item>
       <title>Enhancement | Exposure Correction</title>
-      <link>https://jimmy19991222.github.io/posts/enhencement/lowlight_enhance/</link>
+      <link>https://jimmy19991222.github.io/posts/enhencement/lowlight_enhance.html</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jimmy19991222.github.io/posts/enhencement/lowlight_enhance/</guid>
+      <guid>https://jimmy19991222.github.io/posts/enhencement/lowlight_enhance.html</guid>
       <description>A note collection of Exposure Correction</description>
     </item>
     
     <item>
       <title>Object detection | Overview</title>
-      <link>https://jimmy19991222.github.io/posts/object_detection/object-detection/</link>
+      <link>https://jimmy19991222.github.io/posts/object_detection/object-detection.html</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jimmy19991222.github.io/posts/object_detection/object-detection/</guid>
+      <guid>https://jimmy19991222.github.io/posts/object_detection/object-detection.html</guid>
       <description>An overview of Object Detection</description>
     </item>
     
     
     <item>
       <title>FAQ</title>
-      <link>https://jimmy19991222.github.io/faq/</link>
+      <link>https://jimmy19991222.github.io/faq.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jimmy19991222.github.io/faq/</guid>
+      <guid>https://jimmy19991222.github.io/faq.html</guid>
       <description>$\text{Q}_1$: Who are you?
 $A$: Hi, this is Jieming. I am currently a NUS DSML master, and a research engineer intern at SenseTime as well. My research interest focused on Adversarial Robustness and Multimodal Learning. </description>
     </item>
