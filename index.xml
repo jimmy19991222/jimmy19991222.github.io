@@ -5,42 +5,42 @@
     <link>https://jimmy19991222.github.io/</link>
     <description>Recent content on Jieming&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Sun, 21 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jimmy19991222.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PRML | Probability Distributions</title>
-      <link>https://jimmy19991222.github.io/posts/prml/probability_distributions.html</link>
+      <link>https://jimmy19991222.github.io/posts/prml/probability_distributions/</link>
       <pubDate>Sun, 21 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jimmy19991222.github.io/posts/prml/probability_distributions.html</guid>
+      <guid>https://jimmy19991222.github.io/posts/prml/probability_distributions/</guid>
       <description>An overview of Object Detection</description>
     </item>
     
     <item>
       <title>Enhancement | Exposure Correction</title>
-      <link>https://jimmy19991222.github.io/posts/enhencement/lowlight_enhance.html</link>
+      <link>https://jimmy19991222.github.io/posts/enhencement/lowlight_enhance/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jimmy19991222.github.io/posts/enhencement/lowlight_enhance.html</guid>
+      <guid>https://jimmy19991222.github.io/posts/enhencement/lowlight_enhance/</guid>
       <description>A note collection of Exposure Correction</description>
     </item>
     
     <item>
       <title>Object detection | Overview</title>
-      <link>https://jimmy19991222.github.io/posts/object_detection/object-detection.html</link>
+      <link>https://jimmy19991222.github.io/posts/object_detection/object-detection/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jimmy19991222.github.io/posts/object_detection/object-detection.html</guid>
+      <guid>https://jimmy19991222.github.io/posts/object_detection/object-detection/</guid>
       <description>An overview of Object Detection</description>
     </item>
     
     
     <item>
       <title>FAQ</title>
-      <link>https://jimmy19991222.github.io/faq.html</link>
+      <link>https://jimmy19991222.github.io/faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jimmy19991222.github.io/faq.html</guid>
+      <guid>https://jimmy19991222.github.io/faq/</guid>
       <description>$\text{Q}_1$: Who are you?
 $A$: Hi, this is Jieming. I am currently a NUS DSML master, and a research engineer intern at SenseTime as well. My research interest focused on Adversarial Robustness and Multimodal Learning. </description>
     </item>

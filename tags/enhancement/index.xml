@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Enhancement on Jieming&#39;s Blog</title>
-    <link>https://jimmy19991222.github.io/tags/enhancement.html</link>
+    <link>https://jimmy19991222.github.io/tags/enhancement/</link>
     <description>Recent content in Enhancement on Jieming&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jimmy19991222.github.io/tags/enhancement/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Enhancement | Exposure Correction</title>
-      <link>https://jimmy19991222.github.io/posts/enhencement/lowlight_enhance.html</link>
+      <link>https://jimmy19991222.github.io/posts/enhencement/lowlight_enhance/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jimmy19991222.github.io/posts/enhencement/lowlight_enhance.html</guid>
+      <guid>https://jimmy19991222.github.io/posts/enhencement/lowlight_enhance/</guid>
       <description>A note collection of Exposure Correction</description>
     </item>
     
